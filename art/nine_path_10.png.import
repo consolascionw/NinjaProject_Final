@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bgq71o8vbg4uy"
-path="res://.godot/imported/blue_ninja.png-6a472cb20833045e374cf763765ab41e.ctex"
+uid="uid://dhprq4tyg1nuj"
+path="res://.godot/imported/nine_path_10.png-9f98100a65847740f3a2632239bbd706.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://content/character/blue_ninja/blue_ninja.png"
-dest_files=["res://.godot/imported/blue_ninja.png-6a472cb20833045e374cf763765ab41e.ctex"]
+source_file="res://theme/nine_path_10.png"
+dest_files=["res://.godot/imported/nine_path_10.png-9f98100a65847740f3a2632239bbd706.ctex"]
 
 [params]
 
